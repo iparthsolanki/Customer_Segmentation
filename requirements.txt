@@ -1,6 +1,7 @@
-tensorflow==2.20.0
-numpy==2.4.6
-scikit-learn==1.6.1
 fastapi==0.141.1
 uvicorn==0.49.0
-pydantic==2.10.9
+pydantic==2.13.4
+pandas==3.0.5
+numpy==2.4.6
+scikit-learn==1.6.1
+joblib==1.5.3
