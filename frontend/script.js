@@ -6,7 +6,7 @@
 // ------------------------------------------------------------
 // Config — matches the FastAPI backend's exact contract
 // ------------------------------------------------------------
-const API_URL = "http://127.0.0.1:8000/predict";
+const API_URL = "https://customer-segmentation-vb34.onrender.com";
 
 // ------------------------------------------------------------
 // Mobile navigation toggle
